@@ -3,8 +3,11 @@
 This is a sample react todo app with redux done step-by-step.
 This sample app was a part of react workshop.
 
-Check the React ToDO App Demo:
+Hi...This is my first project in React with redux. 
+If you find any tips, please share them with me and let me know what can pe improved.
+suggestions are most welcome.
 
+Check the React ToDO App Demo:
 
 https://user-images.githubusercontent.com/3508760/111904058-e2225780-8a6a-11eb-82e6-4c8fbdd1220a.mp4
 
