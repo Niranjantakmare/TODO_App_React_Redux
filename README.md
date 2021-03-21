@@ -3,7 +3,13 @@
 This is a sample react todo app with redux done step-by-step.
 This sample app was a part of react workshop.
 
-Check the demo hosted on heroku https://simplest-react-todo-app.herokuapp.com/.
+Check the React ToDO App Demo:
+
+
+https://user-images.githubusercontent.com/3508760/111904058-e2225780-8a6a-11eb-82e6-4c8fbdd1220a.mp4
+
+
+
 
 
 ## Instructions
